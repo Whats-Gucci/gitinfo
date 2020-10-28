@@ -16,3 +16,6 @@ git pull
 Авторство коммитов:
 git config --global user.email "Ваш емаил"
 git config --global user.name "Ваше имя"
+
+
+этот файл изменен дома)
